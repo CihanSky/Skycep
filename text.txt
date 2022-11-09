@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Hi Hello world!
-My name is Fatih
-=======
-Hi Hello world! 
-My name is Cihan
->>>>>>> newBranch
